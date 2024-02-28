@@ -128,11 +128,13 @@ const experiences = [
     company_name: "LuxorWeb",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Marzo 2020 - Dicembre 2023",
+    date: "Gennaio 2024 - Oggi",
     points: [
-      "Sviluppo e manutenzione di applicazioni web utilizzando React.js e altre tecnologie correlate.",
-      "Collaborazione con team interfunzionali inclusi designer, product manager e altri sviluppatori per creare prodotti di alta qualità.",
-      "Implementazione di design responsivi e assicurazione della compatibilità cross-browser.",
+      "Sviluppo di applicazioni web con Next.js e Laravel, enfatizzando la costruzione di API robuste e l'integrazione di frontend e backend per esperienze utente dinamiche.",
+      "Lavoro in team multidisciplinari per tradurre requisiti complessi in soluzioni digitali innovative, utilizzando metodologie Agile.",
+      "Implementazione di interfacce reattive e SEO-friendly con Next.js, assicurando compatibilità cross-browser e prestazioni ottimali.",
+      "Applicazione di best practices nello sviluppo software, inclusa la revisione del codice e i test automatizzati, per mantenere alta la qualità del codice.",
+      "Uso di Laravel per sviluppare API sicure, gestire l'autenticazione e ottimizzare le prestazioni attraverso caching.",
     ],
   },
 ];
